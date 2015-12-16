@@ -1,3 +1,4 @@
 /old
 *.pyc
 .DS_Store
+/src/settings.py
